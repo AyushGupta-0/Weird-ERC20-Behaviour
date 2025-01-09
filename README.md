@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sentinal.png" alt="Company Logo" width="200">
+</p>
+
 # Weird ERC20 Tokens
 
 This repository contains minimal example implementations in Solidity of ERC20 tokens with behaviour
